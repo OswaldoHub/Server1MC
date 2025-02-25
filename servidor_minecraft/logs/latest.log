@@ -52,3 +52,13 @@
 [25Feb2025 01:12:23.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
 [25Feb2025 01:16:23.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [25Feb2025 01:16:23.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Restart<--[HERE]
+[25Feb2025 01:27:34.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Feb2025 01:27:34.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Feb2025 01:27:34.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Feb2025 01:27:35.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Feb2025 01:27:36.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Feb2025 01:27:36.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Feb2025 01:27:36.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Feb2025 01:27:36.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Feb2025 01:27:36.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Feb2025 01:27:36.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
