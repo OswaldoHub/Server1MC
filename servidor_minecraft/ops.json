@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "a22d7c43-b555-4795-acc1-e8506b0ed714",
+    "name": "Koki",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
