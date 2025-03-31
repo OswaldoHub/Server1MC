@@ -1,34 +1,78 @@
-[18:26:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:26:32] [ServerMain/INFO]: Loaded 1290 recipes
-[18:26:32] [ServerMain/INFO]: Loaded 1399 advancements
-[18:26:32] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[18:26:33] [Server thread/INFO]: Loading properties
-[18:26:33] [Server thread/INFO]: Default game type: SURVIVAL
-[18:26:33] [Server thread/INFO]: Generating keypair
-[18:26:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:26:33] [Server thread/INFO]: Using epoll channel type
-[18:26:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:26:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:26:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:26:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:26:33] [Server thread/INFO]: Preparing level "world"
-[18:26:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:26:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:26:36] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[18:26:36] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[18:26:37] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[18:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[18:26:38] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[18:26:38] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[18:26:39] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[18:26:39] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[18:26:40] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[18:26:40] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[18:26:40] [Server thread/INFO]: Time elapsed: 5069 ms
-[18:26:40] [Server thread/INFO]: Done (7.661s)! For help, type "help"
-[18:26:59] [Server thread/INFO]: [Not Secure] [Server] hola
-[18:27:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@22b198e3[id=882eaa45-d8a2-3c50-a258-4fb1fa066958,name=cujutcvn,properties={}] lost connection: Timed out
-[18:28:05] [Server thread/INFO]: cujutcvn[/127.116.160.15:48075] logged in with entity id 7 at (5.5, 81.0, 4.5)
-[18:28:05] [Server thread/INFO]: cujutcvn joined the game
-[18:28:17] [Server thread/INFO]: cujutcvn lost connection: Disconnected
-[18:28:17] [Server thread/INFO]: cujutcvn left the game
+[01:19:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:19:08] [ServerMain/INFO]: No existing world data, creating new world
+[01:19:08] [ServerMain/INFO]: Loaded 1290 recipes
+[01:19:09] [ServerMain/INFO]: Loaded 1399 advancements
+[01:19:09] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:19:09] [Server thread/INFO]: Loading properties
+[01:19:09] [Server thread/INFO]: Default game type: SURVIVAL
+[01:19:09] [Server thread/INFO]: Generating keypair
+[01:19:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:19:09] [Server thread/INFO]: Using epoll channel type
+[01:19:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:19:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:19:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:19:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:19:09] [Server thread/INFO]: Preparing level "world"
+[01:19:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:19:16] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[01:19:16] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:19:16] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[01:19:17] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[01:19:17] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[01:19:18] [Worker-Main-1/INFO]: Preparing spawn area: 20%
+[01:19:19] [Worker-Main-2/INFO]: Preparing spawn area: 48%
+[01:19:19] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:19:19] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[01:19:20] [Server thread/INFO]: Time elapsed: 4340 ms
+[01:19:20] [Server thread/INFO]: Done (10.586s)! For help, type "help"
+[01:19:37] [Server thread/INFO]: Yuki[/127.213.143.22:56391] logged in with entity id 63 at (7.5, 64.0, 24.5)
+[01:19:37] [Server thread/INFO]: Yuki joined the game
+[01:20:12] [Server thread/INFO]: Yuki lost connection: Disconnected
+[01:20:12] [Server thread/INFO]: Yuki left the game
+[01:21:43] [Server thread/INFO]: Yuki[/127.213.143.22:45039] logged in with entity id 406 at (10.781554925569669, 64.0, 27.203138886721117)
+[01:21:43] [Server thread/INFO]: Yuki joined the game
+[01:21:52] [Server thread/INFO]: Nothing changed. The player already is an operator
+[01:22:03] [Server thread/INFO]: [Yuki: Set own game mode to Creative Mode]
+[01:22:09] [Server thread/WARN]: Yuki moved too quickly! 1.6045094571296197,0.0,10.54210560961613
+[01:22:15] [Server thread/INFO]: Yuki was killed
+[01:22:15] [Server thread/INFO]: Villager cmk['Cleric'/465, l='ServerLevel[world]', x=-11.74, y=64.50, z=124.77] died, message: 'Cleric was killed'
+[01:22:15] [Server thread/INFO]: Villager cmk['Villager'/466, l='ServerLevel[world]', x=25.26, y=64.88, z=113.45] died, message: 'Villager was killed'
+[01:22:15] [Server thread/INFO]: Villager cmk['Farmer'/467, l='ServerLevel[world]', x=5.40, y=64.00, z=117.39] died, message: 'Farmer was killed'
+[01:22:15] [Server thread/INFO]: Villager cmk['Villager'/472, l='ServerLevel[world]', x=10.52, y=64.00, z=141.66] died, message: 'Villager was killed'
+[01:22:15] [Server thread/INFO]: Villager cmk['Villager'/473, l='ServerLevel[world]', x=13.75, y=65.00, z=136.84] died, message: 'Villager was killed'
+[01:22:15] [Server thread/INFO]: Villager cmk['Villager'/475, l='ServerLevel[world]', x=4.30, y=64.00, z=138.50] died, message: 'Villager was killed'
+[01:22:15] [Server thread/INFO]: Villager cmk['Villager'/476, l='ServerLevel[world]', x=14.06, y=65.00, z=135.87] died, message: 'Villager was killed'
+[01:22:15] [Server thread/INFO]: Villager cmk['Villager'/477, l='ServerLevel[world]', x=-11.55, y=64.00, z=126.66] died, message: 'Villager was killed'
+[01:22:15] [Server thread/INFO]: Villager cmk['Villager'/478, l='ServerLevel[world]', x=15.53, y=74.00, z=140.40] died, message: 'Villager was killed'
+[01:22:15] [Server thread/INFO]: Villager cmk['Villager'/479, l='ServerLevel[world]', x=23.73, y=76.00, z=139.55] died, message: 'Villager was killed'
+[01:22:15] [Server thread/INFO]: Villager cmk['Villager'/497, l='ServerLevel[world]', x=54.43, y=70.00, z=134.68] died, message: 'Villager was killed'
+[01:22:15] [Server thread/INFO]: Villager cmk['Villager'/498, l='ServerLevel[world]', x=55.17, y=69.00, z=128.83] died, message: 'Villager was killed'
+[01:22:15] [Server thread/INFO]: Villager cmk['Nitwit'/499, l='ServerLevel[world]', x=23.29, y=75.94, z=138.57] died, message: 'Nitwit was killed'
+[01:22:15] [Server thread/INFO]: [Yuki: Killed 221 entities]
+[01:22:45] [Server thread/INFO]: [Yuki: Teleported Yuki to -367.500000, 93.124427, 112.500000]
+[01:23:29] [Server thread/INFO]: [Yuki: Teleported Yuki to -367.500000, 86.384073, 112.500000]
+[01:23:33] [Server thread/INFO]: Yuki was killed
+[01:23:33] [Server thread/INFO]: Villager cmk['Farmer'/1797, l='ServerLevel[world]', x=-381.42, y=71.00, z=132.52] died, message: 'Farmer was killed'
+[01:23:33] [Server thread/INFO]: Villager cmk['Leatherworker'/1798, l='ServerLevel[world]', x=-350.55, y=72.00, z=113.80] died, message: 'Leatherworker was killed'
+[01:23:33] [Server thread/INFO]: Villager cmk['Farmer'/1800, l='ServerLevel[world]', x=-369.47, y=74.00, z=103.00] died, message: 'Farmer was killed'
+[01:23:33] [Server thread/INFO]: Villager cmk['Villager'/1804, l='ServerLevel[world]', x=-383.48, y=74.00, z=148.77] died, message: 'Villager was killed'
+[01:23:33] [Server thread/INFO]: [Yuki: Killed 363 entities]
+[01:23:53] [Server thread/INFO]: [Yuki: Teleported Yuki to 656.500000, 67.743171, -159.500000]
+[01:23:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2927ms or 58 ticks behind
+[01:24:17] [Server thread/INFO]: [Yuki: Teleported Yuki to 656.500000, 80.480014, -159.500000]
+[01:24:22] [Server thread/INFO]: Yuki was killed
+[01:24:22] [Server thread/INFO]: Villager cmk['Shepherd'/3428, l='ServerLevel[world]', x=629.25, y=63.00, z=-167.55] died, message: 'Shepherd was killed'
+[01:24:22] [Server thread/INFO]: Villager cmk['Nitwit'/3436, l='ServerLevel[world]', x=675.12, y=63.00, z=-181.30] died, message: 'Nitwit was killed'
+[01:24:22] [Server thread/INFO]: Villager cmk['Nitwit'/3442, l='ServerLevel[world]', x=624.20, y=63.00, z=-139.72] died, message: 'Nitwit was killed'
+[01:24:22] [Server thread/INFO]: Villager cmk['Villager'/3419, l='ServerLevel[world]', x=673.39, y=62.94, z=-160.86] died, message: 'Villager was killed'
+[01:24:22] [Server thread/INFO]: Villager cmk['Cartographer'/3423, l='ServerLevel[world]', x=671.30, y=63.00, z=-178.52] died, message: 'Cartographer was killed'
+[01:24:22] [Server thread/INFO]: Villager cmk['Farmer'/3425, l='ServerLevel[world]', x=647.47, y=64.94, z=-180.51] died, message: 'Farmer was killed'
+[01:24:22] [Server thread/INFO]: Villager cmk['Shepherd'/3427, l='ServerLevel[world]', x=628.81, y=63.00, z=-168.37] died, message: 'Shepherd was killed'
+[01:24:22] [Server thread/INFO]: Villager cmk['Farmer'/3447, l='ServerLevel[world]', x=622.49, y=63.94, z=-154.55] died, message: 'Farmer was killed'
+[01:24:22] [Server thread/INFO]: Villager cmk['Cartographer'/3480, l='ServerLevel[world]', x=599.56, y=63.06, z=-165.19] died, message: 'Cartographer was killed'
+[01:24:22] [Server thread/INFO]: Villager cmk['Farmer'/3448, l='ServerLevel[world]', x=596.67, y=65.00, z=-131.97] died, message: 'Farmer was killed'
+[01:24:22] [Server thread/INFO]: [Yuki: Killed 250 entities]
+[01:25:12] [Server thread/INFO]: [Yuki: Gave 1 [Barrier] to Yuki]
+[01:26:26] [Server thread/INFO]: [Yuki: Changed the block at 0, 208, 0]
+[01:26:38] [Server thread/INFO]: [Yuki: Changed the block at 1, 208, -2]
+[01:28:11] [Server thread/INFO]: [Yuki: Gave 1 [Command Block] to Yuki]

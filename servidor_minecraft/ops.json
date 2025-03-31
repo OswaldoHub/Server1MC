@@ -4,5 +4,17 @@
     "name": "Koki",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "eb2c5b56-d905-3a60-995f-b740bd53c675",
+    "name": "Yuki",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "097be6a2-5ad7-396d-b954-9ce874755f29",
+    "name": "yuki",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
