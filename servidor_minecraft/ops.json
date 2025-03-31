@@ -1,5 +1,17 @@
 [
   {
+    "uuid": "9413ecb6-f87e-326f-9edd-9f3cd2aba255",
+    "name": "YBuki",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1cbdebc8-5afe-4d8f-87aa-30bfab61dd8b",
+    "name": "ibuki",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "a22d7c43-b555-4795-acc1-e8506b0ed714",
     "name": "Koki",
     "level": 4,
