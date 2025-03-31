@@ -76,3 +76,20 @@
 [01:26:26] [Server thread/INFO]: [Yuki: Changed the block at 0, 208, 0]
 [01:26:38] [Server thread/INFO]: [Yuki: Changed the block at 1, 208, -2]
 [01:28:11] [Server thread/INFO]: [Yuki: Gave 1 [Command Block] to Yuki]
+[01:29:41] [Server thread/INFO]: [Yuki: Gave 1 [Barrier] to Yuki]
+[01:29:41] [Server thread/INFO]: [Yuki: Gave 1 [Barrier] to Yuki]
+[01:29:50] [Server thread/INFO]: [Yuki: Set own game mode to Survival Mode]
+[01:30:02] [Server thread/INFO]: [Yuki: Set own game mode to Creative Mode]
+[01:36:39] [Server thread/INFO]: Yuki lost connection: Disconnected
+[01:36:39] [Server thread/INFO]: Yuki left the game
+[01:37:12] [Server thread/INFO]: Stopping the server
+[01:37:12] [Server thread/INFO]: Stopping server
+[01:37:12] [Server thread/INFO]: Saving players
+[01:37:12] [Server thread/INFO]: Saving worlds
+[01:37:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:37:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:37:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:37:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:37:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:37:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:37:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
